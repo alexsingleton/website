@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michail Pavlis | Alex Singleton</title>
+    <link>/author/michail-pavlis/</link>
+      <atom:link href="/author/michail-pavlis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michail Pavlis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Michail Pavlis</title>
+      <link>/author/michail-pavlis/</link>
+    </image>
+    
+    <item>
+      <title>A Modified DBSCAN Clustering Method to Estimate Retail Center Extent</title>
+      <link>/publication/41/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Stability of Geodemographic Cluster Assignments Over an Intercensal Period</title>
+      <link>/publication/36/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Attractiveness, Hierarchy and Catchment Area Extents for a National set of Retail Centre Agglomerations</title>
+      <link>/publication/40/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/40/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

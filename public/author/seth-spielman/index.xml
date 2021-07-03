@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seth Spielman | Alex Singleton</title>
+    <link>/author/seth-spielman/</link>
+      <atom:link href="/author/seth-spielman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seth Spielman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Seth Spielman</title>
+      <link>/author/seth-spielman/</link>
+    </image>
+    
+    <item>
+      <title>Establishing a framework for Open Geographic Information science</title>
+      <link>/publication/35/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying Neighborhoods Using Uncertain Data from the American Community Survey: A Contextual Approach</title>
+      <link>/publication/30/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GIS Approach to Modelling CO2 Emissions Associated with the Pupil-School Commute</title>
+      <link>/publication/22/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Past Present and Future of Geodemographic Research in the United States and United Kingdom</title>
+      <link>/publication/21/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

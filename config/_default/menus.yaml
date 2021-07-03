@@ -1,0 +1,19 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  
+  - name: CV
+    url: '/pdf/cv.pdf'
+    weight: 40
+  - name: Publications
+    url: '#featured'
+    weight: 50
+  - name: Contact
+    url: '#contact'
+    weight: 70
+  - name: GDSL
+    url: 'https://www.liverpool.ac.uk/geographic-data-science/'
+    weight: 80

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexiou Alexandros | Alex Singleton</title>
+    <link>/author/alexiou-alexandros/</link>
+      <atom:link href="/author/alexiou-alexandros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexiou Alexandros</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexiou Alexandros</title>
+      <link>/author/alexiou-alexandros/</link>
+    </image>
+    
+    <item>
+      <title>A Classification of Multidimensional Open Data for Urban Morphology</title>
+      <link>/publication/38/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/38/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

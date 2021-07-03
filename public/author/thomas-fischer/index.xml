@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Fischer | Alex Singleton</title>
+    <link>/author/thomas-fischer/</link>
+      <atom:link href="/author/thomas-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Fischer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Fischer</title>
+      <link>/author/thomas-fischer/</link>
+    </image>
+    
+    <item>
+      <title>A Survey of the use of Geographic Information Systems in English Local Authority Impact Assessments</title>
+      <link>/publication/20/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

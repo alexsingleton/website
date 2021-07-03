@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debbi Stanistreet | Alex Singleton</title>
+    <link>/author/debbi-stanistreet/</link>
+      <atom:link href="/author/debbi-stanistreet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debbi Stanistreet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Debbi Stanistreet</title>
+      <link>/author/debbi-stanistreet/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Students&#39; Academic Performance Based on School and Socio-Demographic Characteristics</title>
+      <link>/publication/25/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

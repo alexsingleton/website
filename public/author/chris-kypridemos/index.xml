@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Kypridemos | Alex Singleton</title>
+    <link>/author/chris-kypridemos/</link>
+      <atom:link href="/author/chris-kypridemos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Kypridemos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Kypridemos</title>
+      <link>/author/chris-kypridemos/</link>
+    </image>
+    
+    <item>
+      <title>Identifying how COVID-19-Related Misinformation Reacts to the Announcement of the UK National Lockdown: An Interrupted Time-Series Study</title>
+      <link>/publication/59/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/59/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

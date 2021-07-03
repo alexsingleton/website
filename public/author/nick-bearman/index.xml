@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Bearman | Alex Singleton</title>
+    <link>/author/nick-bearman/</link>
+      <atom:link href="/author/nick-bearman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nick Bearman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Nick Bearman</title>
+      <link>/author/nick-bearman/</link>
+    </image>
+    
+    <item>
+      <title>Modelling the Potential Impact on CO2 Emissions of an Increased Uptake of Active Travel for the Home to School Commute Using Individual Level Data</title>
+      <link>/publication/29/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/29/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

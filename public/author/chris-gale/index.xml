@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Gale | Alex Singleton</title>
+    <link>/author/chris-gale/</link>
+      <atom:link href="/author/chris-gale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Gale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Gale</title>
+      <link>/author/chris-gale/</link>
+    </image>
+    
+    <item>
+      <title>Creating the 2011 Area Classification for Output Areas (2011 OAC)</title>
+      <link>/publication/39/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/39/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
