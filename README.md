@@ -4,5 +4,4 @@ The source code that is used to generate my personal website www.alex-singleton.
 
 
 
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d89c1371-8ada-4343-9d7a-e59ad3728eba/deploy-status)](https://app.netlify.com/sites/alexsingleton/deploys)
